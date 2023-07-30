@@ -1,3 +1,3 @@
-# Mondrian-Art
+## Mondrian-Art
 
-I designed a artwork using Grid and Flexbox.
+I designed an artwork using Grid and Flexbox.
